@@ -14,3 +14,11 @@ int main(){
     
     return 0;
 }
+// template <class T>
+// void swapp(T &a, T &b)
+// {
+//     T temp = a;
+//     a = b;
+//     b = temp;
+// }
+// // 

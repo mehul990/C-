@@ -21,3 +21,5 @@ int main()
     return 0;
 }
 
+// Test(int i, int j) : b(j), a(i+b)
+// Test(int i, int j) : a(i), b(a + j)
