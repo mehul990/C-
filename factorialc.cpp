@@ -13,6 +13,6 @@ int main()
     int a;
     cout << "enter your number" << endl;
     cin >> a;
-    cout << "the factorial of a is" << factorial(a);
+    cout << "the factorial of a is " << factorial(a);
     return 0;
 }
